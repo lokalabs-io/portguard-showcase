@@ -70,4 +70,4 @@ macOS 13.0 or later.
 
 ## Author
 
-Developed by [Orhan Kutay Bozkurt](https://github.com/okutaybozkurt) and shared by Loka Labs.
+Developed by [Orhan Kutay Bozkurt](https://github.com/okutaybozkurt). Showcased by Loka Labs.

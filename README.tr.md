@@ -70,4 +70,4 @@ macOS 13.0 veya üzeri.
 
 ## Geliştirici
 
-[Orhan Kutay Bozkurt](https://github.com/okutaybozkurt) tarafından geliştirildi, Loka Labs tarafından paylaşılmaktadır.
+[Orhan Kutay Bozkurt](https://github.com/okutaybozkurt) tarafından geliştirildi. Loka Labs tarafından sergilenmektedir.
